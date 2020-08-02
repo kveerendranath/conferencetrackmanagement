@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.class
+*.iml
+**/target
+.project
+.settings
+.classpath
+.idea
+**/*.iml
+**/.idea
+**/.slcache/
